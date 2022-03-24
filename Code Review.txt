@@ -1,0 +1,40 @@
+Python:
+.Correctness
+1] line 5, you've have missed to place your string variable in .join, 
+   so make sure your code is correct, well-formatted and readable 
+
+
+.Efficiency 
+1] line 2, your function name should be in lower case and seperated by an underscore to improve readability
+
+
+.Documentation
+1] you have to be able to include pseudo code in your code to improve readability
+   and make other developers understand what you are trying to do with your code
+
+.Style
+1]  line 2, your function name should be in lower case and seperated by an underscore and
+    in this case, make sure your code is correct, well-formatted and readable.	
+2]  line 10 there is not matching with any indentation level check your indentation, format your code
+
+
+
+Java
+.Correctness
+ 1] your program is showing a couple of errors on line 26 and 30
+    note: ...i'd rather you check your code for errors and indentation before you run it 
+
+.Efficiency 
+1] on line 26 in attempting to call a function you've made a syntax error, the return method is
+   not corresponding with the method you're trying to call
+2] line 28 the variable you've declared is not specific hence, you've made a duplication of code by
+   declaring the same variable maxNumber twice on line 30
+
+
+.Documentation
+1] line 17 ,poor attempt of describing what the String method will doing 
+
+.Style
+0] line 18 l would encourage you to use mixed case with a lowercase first letter and
+   internal words start with capital letters.
+   indentation, leaving too many white spaces.
